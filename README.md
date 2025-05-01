@@ -120,20 +120,12 @@ This application uses Google's Gemini 2.0 Flash Experimental Image Generation mo
 
 For more information about the Gemini API, visit the [official documentation](https://ai.google.dev/gemini-api/docs/image-generation).
 
-## Important Notes
-
-- The generated images are for visualization purposes only
-- Consult with a qualified surgeon before making any decisions
-- This application does not provide medical advice
-- Actual surgical results may vary from the generated previews
-
 ## Limitations
 
 - The quality of the results depends on the input image quality
 - The model works best with clear, front-facing images
+- May need to rerun the generation for better results
+- Sidefacing images may sometimes flip
 - Lighting and angle can affect the quality of the generated image
 - Large images (>1MB) may cause performance issues or timeouts
 
-## License
-
-MIT
