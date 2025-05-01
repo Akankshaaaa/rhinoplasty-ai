@@ -131,7 +131,6 @@ export default function Home() {
 
       <footer className="bg-white border-t mt-12 py-6">
         <div className="max-w-5xl mx-auto px-4 text-center text-gray-500 text-sm">
-          <p>© {new Date().getFullYear()} RhinoplastyAI. All rights reserved.</p>
           <p className="mt-1">
             Powered by Google Gemini 2.0 Flash Image Generation API
           </p>
